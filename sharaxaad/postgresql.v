@@ -1,4 +1,4 @@
-postgresql waa nooc kamid ah databases ka la isticmalo 
+#postgres  waa nooc kamid ah databases ka la isticmalo 
 kuwooda aduunka ugu horeya waqti xaadirkan 
 hadaba muxu kaga duwan yahay databases ka kale 
 
@@ -14,3 +14,11 @@ la shaqayn kara operating system kasta sida windows linux mac
 4. waxa lagu dhisi kara database yada webapplications ka iyo mobile applciation 
 kuwaas oo uu awood xoogan ku leeyahay 
 5. waxyaabo uu kaga soocan yahay database yada kale ayaa inoo iman doona 
+
+
+postgresql muxuu isticmala ama databases ka kale ee jiraaba wax ay ka siman yihin ayaa jira 
+
+1. commands 
+2. constraints 
+3. joins 
+4. iyo kuwo kale oo badan oo aynu arki doono insha allah.
