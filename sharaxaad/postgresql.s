@@ -22,3 +22,5 @@ postgresql muxuu isticmala ama databases ka kale ee jiraaba wax ay ka siman yihi
 2. constraints 
 3. joins 
 4. iyo kuwo kale oo badan oo aynu arki doono insha allah.
+
+
